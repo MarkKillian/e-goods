@@ -44,3 +44,18 @@ body{
   padding:25px;
   background-color:#ccc; /* Remove this line when you begin writing code - nobody wants this crappy background! */
 }
+#orangeyBackground{
+  background-color: #d66853;
+}
+#purple{
+  color: #7d4e57;
+}
+#navyBlue{
+  color: #11151c;
+}
+#middleBlue{
+  color: #364156;
+}
+#darkMiddleBlue{
+  color: #212D40;
+}
