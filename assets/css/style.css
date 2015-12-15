@@ -42,7 +42,43 @@ body{
 #products{
   margin:auto 100px;
   padding:25px;
-  background-color:#ccc; /* Remove this line when you begin writing code - nobody wants this crappy background! */
+  background-color:#d66853;
+}
+.product{
+  margin: 20px;
+  padding: 10px;
+  position: static;
+  background-color:#7d4e57;
+}
+.images{
+  margin: 20px;
+  padding: 10px;
+  width: 400px; 
+  height: 400px;
+  float: left;
+}
+.heads{
+  margin: 20px;
+  padding: 10px;
+  background-color: #364156;
+  display: block;
+  float: left;
+}
+.descriptions{
+  margin: 20px;
+  padding: 10px;
+  display: inline-block;
+  background-color: #364156;
+}
+.price{
+  margin: 20px;
+  padding: 10px;
+  background-color: #364156
+}
+.link{
+  margin: 20px;
+  padding: 10px;
+  background-color: #364156
 }
 #orangeyBackground{
   background-color: #d66853;
@@ -59,3 +95,4 @@ body{
 #darkMiddleBlue{
   color: #212D40;
 }
+
