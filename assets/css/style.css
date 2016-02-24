@@ -41,44 +41,38 @@ body{
 }
 #products{
   margin:auto 100px;
-  padding:25px;
+  padding:0px 25px;
   background-color:#d66853;
 }
-.product{
+div.product{
   margin: 20px;
-  padding: 10px;
-  position: static;
   background-color:#7d4e57;
+  
 }
 .images{
-  margin: 20px;
-  padding: 10px;
-  width: 400px; 
-  height: 400px;
-  float: left;
+  margin:20px;
+  width: 300px; 
+  height: 300px;
 }
 .heads{
   margin: 20px;
-  padding: 10px;
   background-color: #364156;
-  display: block;
-  float: left;
+  display: inline-block;
+  position: absolute;
 }
 .descriptions{
   margin: 20px;
-  padding: 10px;
-  display: inline-block;
   background-color: #364156;
+  display: inline-block;
+  clear: right;
 }
 .price{
   margin: 20px;
-  padding: 10px;
-  background-color: #364156
+  background-color: #364156;
 }
 .link{
   margin: 20px;
-  padding: 10px;
-  background-color: #364156
+  background-color: #364156;
 }
 #orangeyBackground{
   background-color: #d66853;
